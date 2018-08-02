@@ -3,6 +3,6 @@ Start in a room and search for the end-room. A message will tell you the route y
 
 ### Usage
 
-Use the make file to compile the program. Use the command "make prog" to compile the program to build the rooms with a random start-room, random end-room, and random connections. The "house" is contained in a folder using text files. 
+Use the make file to compile the program. Use the command "make prog" to compile the program to build the rooms with a random start-room, random end-room, and random connections. The "house" is contained in a folder using text files. Enter "./prog" to execute this program. 
 
-Use the command "make prog2" to compile the actual game. The game will use the most recent created rooms to play the game. 
+Use the command "make prog2" to compile the actual game. The game will use the most recent created rooms to play the game. Enter "./prog2" to play the game after the first program is executed at least once. 
